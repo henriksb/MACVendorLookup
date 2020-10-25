@@ -10,11 +10,11 @@ MACLookup [MAC ADDRESS]
 
 Accepted formats:
 
-   - MACLookup FC:FB:FB:01:FA:21
+MACLookup FC:FB:FB:01:FA:21
     
-   - MACLookup FC-FB-FB-01-FA-21
+MACLookup FC-FB-FB-01-FA-21
     
-   - MACLookup FCFBFB01FA21
+MACLookup FCFBFB01FA21
 
 
 
