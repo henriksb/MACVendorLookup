@@ -4,7 +4,7 @@ Simple script to quickly get a vendor for any MAC address. All data used in the 
 
 
 
-##### Usage:
+### Usage:
 
 MACLookup [MAC ADDRESS]
 
@@ -15,11 +15,11 @@ Accepted formats:
 
 
 
-##### Releases:
+### Releases:
 
-[Windows binary](https://www.github.com/)
+[Windows binary](https://github.com/henriksb/MACVendorLookup/releases/download/1/MACLookup.exe)
 
-[Linux binary](https://www.github.com/)
+[Linux binary](https://github.com/henriksb/MACVendorLookup/releases/download/First/MACLookup)
 
 
 
