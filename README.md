@@ -9,8 +9,11 @@ Simple script to quickly get a vendor for any MAC address. All data used in the 
 MACLookup [MAC ADDRESS]
 
 Accepted formats:
+
     - MACLookup FC:FB:FB:01:FA:21
+    
     - MACLookup FC-FB-FB-01-FA-21
+    
     - MACLookup FCFBFB01FA21
 
 
