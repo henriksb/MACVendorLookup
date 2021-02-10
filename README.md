@@ -22,7 +22,7 @@ MACLookup FCFBFB01FA21
 
 [Windows binary](https://github.com/henriksb/MACVendorLookup/releases/download/1/MACLookup.exe)
 
-[Linux binary](https://github.com/henriksb/MACVendorLookup/releases/download/First/MACLookup)
+[Ubuntu binary](https://github.com/henriksb/MACVendorLookup/releases/download/First/MACLookup)
 
 
 
